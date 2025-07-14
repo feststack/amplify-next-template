@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-feststackhellfest-dev-5d5ca-authRole",
+      "UnauthRoleArn": "arn:aws:iam::757953088854:role/amplify-feststackhellfest-dev-5d5ca-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::757953088854:role/amplify-feststackhellfest-dev-5d5ca-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-feststackhellfest-dev-5d5ca-deployment",
+      "UnauthRoleName": "amplify-feststackhellfest-dev-5d5ca-unauthRole",
+      "StackName": "amplify-feststackhellfest-dev-5d5ca",
+      "StackId": "arn:aws:cloudformation:eu-north-1:757953088854:stack/amplify-feststackhellfest-dev-5d5ca/40151210-60c2-11f0-86ff-0e928f4530c5",
+      "AmplifyAppId": "d3lokcxfmhldkz"
+    },
+    "categories": {
+      "auth": {
+        "feststackhellfest486aeb5e": {}
+      }
+    }
+  }
+}

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./app.css";
+import "../src/lib/amplifyClient"; // Ce fichier exécute Amplify.configure()
 
 const inter = Inter({ subsets: ["latin"] });
 
